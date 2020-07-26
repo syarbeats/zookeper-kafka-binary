@@ -1,0 +1,2 @@
+[2020-07-22 17:37:13,625] WARN Exception causing close of session 0x1000a78f55b0000: An existing connection was forcibly closed by the remote host (org.apache.zookeeper.server.NIOServerCnxn)
+[2020-07-22 17:37:13,650] INFO Closed socket connection for client /0:0:0:0:0:0:0:1:49546 which had sessionid 0x1000a78f55b0000 (org.apache.zookeeper.server.NIOServerCnxn)

@@ -1,0 +1,2 @@
+[2020-04-17 17:14:23,858] WARN Exception causing close of session 0x100275374230000: An existing connection was forcibly closed by the remote host (org.apache.zookeeper.server.NIOServerCnxn)
+[2020-04-17 17:14:23,901] INFO Closed socket connection for client /127.0.0.1:63038 which had sessionid 0x100275374230000 (org.apache.zookeeper.server.NIOServerCnxn)
